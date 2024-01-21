@@ -1,47 +1,47 @@
 # AyurGuru
 ## Prakriti Prediction Chatbot and Wellness Website
+![image](https://github.com/rahulkothuri/AyurGuru/assets/84721396/bcf344cd-ee4f-42b2-98ab-9f873b762feb)
+
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Welcome to the Prakriti Prediction Chatbot and Wellness Website repository! Our project aims to empower individuals with personalized Ayurvedic wellness insights. By understanding your unique prakriti (constitution), we provide tailored recommendations to help you achieve holistic well-being.
 
-## Features
 
-- **Prakriti Assessment**: Our chatbot guides you through a series of questions to determine your prakriti type (Vata, Pitta, Kapha).
-- **Personalized Recommendations**: Receive personalized wellness advice, diet recommendations, and lifestyle tips based on your prakriti.
-- **Educational Content**: Explore a wealth of Ayurvedic knowledge through our website's articles, guides, and resources.
-- **Community Engagement**: Connect with like-minded individuals, participate in discussions, and share your wellness journey.
-- **Privacy and Security**: We prioritize the security and privacy of your data, ensuring it's handled with the utmost care.
-
-## Tech Stack
-
-- **Chatbot**: [Dialogflow](https://cloud.google.com/dialogflow) powered by Google Cloud
-- **Backend**: Node.js, Express.js
-- **Database**: SQL (e.g., MySQL, PostgreSQL)
-- **Machine Learning**: [Scikit-learn](https://scikit-learn.org/) (for prakriti prediction)
-- **Frontend**: HTML, CSS, JavaScript
-- **Deployment**: Docker, Kubernetes (optional)
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/rahulkothuri/AyurGuru.git`
-2. Set up the chatbot, backend, and database as described in our [wiki](https://github.com/rahulkothuri/AyurGuru/wiki).
-3. Launch the chatbot and website locally or deploy to your preferred hosting platform.
+First, run the development server:
 
-For detailed installation and usage instructions, please refer to our [documentation](https://github.com/rahulkothuri/AyurGuru/wiki)).
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-## Contributing
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-We welcome contributions from the open-source community! Feel free to open issues, submit pull requests, or suggest enhancements. Please read our [contribution guidelines](CONTRIBUTING.md) for more details.
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-## License
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Learn More
 
-## Acknowledgments
+To learn more about Next.js, take a look at the following resources:
 
-- Special thanks to the Ayurvedic community and our dedicated contributors for making this project possible.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
----
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-Feel free to customize this template to match the specifics of your project, including tech stack details, installation instructions, and licensing information. This README serves as a welcoming and informative entry point for collaborators and users interested in your project.
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
