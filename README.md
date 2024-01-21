@@ -1,13 +1,3 @@
-# AyurGuru
-## Prakriti Prediction Chatbot and Wellness Website
-![image](https://github.com/rahulkothuri/AyurGuru/assets/84721396/bcf344cd-ee4f-42b2-98ab-9f873b762feb)
-
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-Welcome to the Prakriti Prediction Chatbot and Wellness Website repository! Our project aims to empower individuals with personalized Ayurvedic wellness insights. By understanding your unique prakriti (constitution), we provide tailored recommendations to help you achieve holistic well-being.
-
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -44,4 +34,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
