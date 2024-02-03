@@ -3,9 +3,9 @@ AyurGuru is a transformative wellness platform that leverages the principles of 
 ![image](https://github.com/rahulkothuri/AyurGuru/assets/84721396/037afae1-3fd3-4a33-a1ee-8dc3279b1c80)
 
 ## Features
-Chatbot Interaction: Engage with our chatbot to discover your Ayurvedic constitution and receive personalized wellness recommendations.
+Chatbot Interaction: Engage with our chatbot to discover your Ayurvedic constitution and receive personalized wellness recommendations powered by Google Dialogflow.
 
-ML Model Deployment: Utilize Google Cloud for efficient deployment of the machine learning model, ensuring accurate and insightful results.
+ML Model Deployment: Using Google Cloud for efficient deployment of the machine learning model, ensuring accurate and insightful results.
 
 Responsive Frontend: AyurGuru's website is built using Next.js and styled with Tailwind CSS for a modern and user-friendly interface.
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
